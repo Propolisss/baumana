@@ -1,0 +1,3 @@
+/home/propolisss/baumana/aip/1_semestr/labs/laba_8/cmake-build-debug/CMakeFiles/laba_8.dir
+/home/propolisss/baumana/aip/1_semestr/labs/laba_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/propolisss/baumana/aip/1_semestr/labs/laba_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

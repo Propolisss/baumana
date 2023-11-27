@@ -1,26 +1,27 @@
-#include "List.hpp"
+#include <cstdio>
 #include <iostream>
 #include <string>
-#include <cstdio>
+
+#include "List.hpp"
 
 int main() {
+
+//  double temp = 0.0;
+//  List list;
+//  size_t n = 0;
+//  std::cout << "Enter amount of your nums: ";
+//  std::cin >> n;
 //
-//    double temp = 0.0;
-//    List list;
-//    size_t n = 0;
-//    std::cout << "Enter amount of your nums: ";
-//    std::cin >> n;
-//
-//    for (size_t i = 0; i < n; ++i) {
-//        std::cin >> temp;
-//        list.AddElement(temp);
-//    }
-//    std::cout << "List with odds element: ";
-//    list.PrintList();
-//    std::cout << std::endl;
-//    std::cout << "List without odds element: ";
-//    list.DeleteOdds();
-//    list.PrintList();
+//  for (size_t i = 0; i < n; ++i) {
+//    std::cin >> temp;
+//    list.AddElement(temp);
+//  }
+//  std::cout << "List with odds element: ";
+//  list.PrintList();
+//  std::cout << std::endl;
+//  std::cout << "List without odds element: ";
+//  list.DeleteOdds();
+//  list.PrintList();
 
     FILE *toRead;
     FILE *toWrite;
@@ -50,5 +51,5 @@ int main() {
     }
     fclose(toRead);
     fclose(toWrite);
-    return 0;
+  return 0;
 }
