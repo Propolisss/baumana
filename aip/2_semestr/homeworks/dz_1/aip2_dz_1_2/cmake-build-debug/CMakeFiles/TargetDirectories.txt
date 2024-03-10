@@ -1,0 +1,9 @@
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/aip2_dz_1_2.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/install.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/install/local.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/aip2_dz_1_2_autogen_timestamp_deps.dir
+/home/propolisss/aip2_dz_1_2/cmake-build-debug/CMakeFiles/aip2_dz_1_2_autogen.dir

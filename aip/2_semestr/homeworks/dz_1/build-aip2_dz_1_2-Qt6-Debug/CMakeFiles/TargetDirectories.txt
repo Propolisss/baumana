@@ -1,0 +1,9 @@
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/edit_cache.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/rebuild_cache.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/list_install_components.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/install.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/install/local.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/install/strip.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2_autogen_timestamp_deps.dir
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2_autogen.dir

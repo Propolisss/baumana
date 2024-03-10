@@ -1,0 +1,9 @@
+# ninja log v5
+1	220	1710066903746516520	aip2_dz_1_autogen/timestamp	c3ea7f297572d05a
+1	220	1710066903746516520	aip2_dz_1_autogen/mocs_compilation.cpp	c3ea7f297572d05a
+1	220	1710066903746516520	/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/aip2_dz_1/cmake-build-debug/aip2_dz_1_autogen/timestamp	c3ea7f297572d05a
+1	220	1710066903746516520	/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/aip2_dz_1/cmake-build-debug/aip2_dz_1_autogen/mocs_compilation.cpp	c3ea7f297572d05a
+220	945	1710066904473513533	CMakeFiles/aip2_dz_1.dir/aip2_dz_1_autogen/mocs_compilation.cpp.o	3fd982eccaf0209c
+220	1009	1710066904537513270	CMakeFiles/aip2_dz_1.dir/main.cpp.o	53771e12c4d65119
+220	1120	1710066904648512814	CMakeFiles/aip2_dz_1.dir/mainwin.cpp.o	24f7eeec8e97b616
+1120	1396	1710066904924511680	aip2_dz_1	16875827bffbc4ef

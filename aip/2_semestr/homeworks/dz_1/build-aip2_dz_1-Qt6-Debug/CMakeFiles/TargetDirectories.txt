@@ -1,0 +1,9 @@
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/aip2_dz_1.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/edit_cache.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/rebuild_cache.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/list_install_components.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/install.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/install/local.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/install/strip.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/aip2_dz_1_autogen_timestamp_deps.dir
+/home/propolisss/build-aip2_dz_1-Qt6-Debug/CMakeFiles/aip2_dz_1_autogen.dir

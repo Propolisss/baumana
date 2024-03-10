@@ -1,0 +1,15 @@
+# ninja log v5
+153	1124	1708880389655701798	CMakeFiles/calc.dir/main.cpp.o	5c303de908c1707b
+17	828	1709364619213358029	CMakeFiles/calc.dir/Win.cpp.o	787b36227a719b29
+828	1212	1709364619594499022	calc	2c3447c0a96f1a13
+2	16	1709364618404058650	calc_autogen/timestamp	be0f1fce78a029f7
+2	16	1709364618404058650	calc_autogen/mocs_compilation.cpp	be0f1fce78a029f7
+153	1094	1708880389626703120	CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.o	2801ebf730228b8a
+1	145	1710067002992124437	calc_autogen/timestamp	a8bf9c8321119b1a
+1	145	1710067002992124437	calc_autogen/mocs_compilation.cpp	a8bf9c8321119b1a
+1	145	1710067002992124437	/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/timestamp	a8bf9c8321119b1a
+1	145	1710067002992124437	/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/mocs_compilation.cpp	a8bf9c8321119b1a
+146	959	1710067003808121350	CMakeFiles/calc.dir/main.cpp.o	632c8cad6777046a
+145	968	1710067003816121319	CMakeFiles/calc.dir/Win.cpp.o	ca738d512453df5
+145	978	1710067003826121282	CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.o	487c9c2fc22e5253
+978	1172	1710067004020120548	calc	2c3447c0a96f1a13

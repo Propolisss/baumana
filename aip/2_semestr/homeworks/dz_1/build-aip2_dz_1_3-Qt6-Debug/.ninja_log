@@ -1,0 +1,20 @@
+# ninja log v5
+1	180	1710009041901467695	aip2_dz_1_3_autogen/timestamp	bdedbe32df6e37d8
+1	180	1710009041901467695	aip2_dz_1_3_autogen/mocs_compilation.cpp	bdedbe32df6e37d8
+180	1269	1710009042995460258	CMakeFiles/aip2_dz_1_3.dir/mainwindow.cpp.o	e3665d51e28e2a67
+180	1307	1710009043032460007	CMakeFiles/aip2_dz_1_3.dir/main.cpp.o	ec6cc927e2feb6b5
+1	180	1710009041901467695	/home/propolisss/build-aip2_dz_1_3-Qt6-Debug/aip2_dz_1_3_autogen/timestamp	bdedbe32df6e37d8
+180	1287	1710009043012460143	CMakeFiles/aip2_dz_1_3.dir/aip2_dz_1_3_autogen/mocs_compilation.cpp.o	a52fd91f5e2012be
+1	180	1710009041901467695	/home/propolisss/build-aip2_dz_1_3-Qt6-Debug/aip2_dz_1_3_autogen/mocs_compilation.cpp	bdedbe32df6e37d8
+1307	1505	1710009043229458668	aip2_dz_1_3	c6c5ce74b945da88
+4	173	1710014343654236637	aip2_dz_1_3_autogen/timestamp	bdedbe32df6e37d8
+4	173	1710014343654236637	aip2_dz_1_3_autogen/mocs_compilation.cpp	bdedbe32df6e37d8
+4	173	1710014343654236637	/home/propolisss/build-aip2_dz_1_3-Qt6-Debug/aip2_dz_1_3_autogen/timestamp	bdedbe32df6e37d8
+4	173	1710014343654236637	/home/propolisss/build-aip2_dz_1_3-Qt6-Debug/aip2_dz_1_3_autogen/mocs_compilation.cpp	bdedbe32df6e37d8
+174	1334	1710014344819229721	CMakeFiles/aip2_dz_1_3.dir/Figure.cpp.o	69c3f03cb4a4f4ec
+173	1429	1710014344913229163	CMakeFiles/aip2_dz_1_3.dir/aip2_dz_1_3_autogen/mocs_compilation.cpp.o	a52fd91f5e2012be
+173	1444	1710014344929229068	CMakeFiles/aip2_dz_1_3.dir/main.cpp.o	ec6cc927e2feb6b5
+174	1778	1710014345263227085	CMakeFiles/aip2_dz_1_3.dir/Ellipse.cpp.o	1cf431afdfb92692
+174	1935	1710014345420226153	CMakeFiles/aip2_dz_1_3.dir/mainwindow.cpp.o	e3665d51e28e2a67
+174	1974	1710014345459225922	CMakeFiles/aip2_dz_1_3.dir/Area.cpp.o	f40b6207fda183b4
+1974	2218	1710014345702224479	aip2_dz_1_3	9ab56b6c1bbeab6d

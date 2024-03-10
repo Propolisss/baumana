@@ -1,4 +1,4 @@
-/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/propolisss/baumana/aip/1_semestr/labs/laba_7 -B /home/propolisss/baumana/aip/1_semestr/labs/laba_7/cmake-build-debug
+/home/propolisss/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/propolisss/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/ninja/linux/x64/ninja -G Ninja -S /home/propolisss/baumana/aip/1_semestr/labs/laba_7 -B /home/propolisss/baumana/aip/1_semestr/labs/laba_7/cmake-build-debug
 -- The C compiler identification is GNU 13.2.1
 -- The CXX compiler identification is GNU 13.2.1
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (0.6s)
+-- Configuring done (0.4s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/propolisss/baumana/aip/1_semestr/labs/laba_7/cmake-build-debug

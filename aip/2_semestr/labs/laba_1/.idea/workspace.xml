@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="025702b3-0bbc-4a81-aa15-d4015cede6a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/homeworks/dz_4/дз_4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/homeworks/dz_4/дз_4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/homeworks/dz_4/дз_4_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/homeworks/dz_4/дз_4_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d394537a58e505e2dc84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d0face0cca3243625bc9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-44a9fc619edf318aabd7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-18T10-56-51-0747.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-456967bd9d6329151e0d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/laba_7.dir/Elevator.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/laba_7.dir/Source.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_7/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1_semestr/labs/laba_8/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../1_semestr/labs/laba_8/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dUdegtVj0habDGYktxAYbfbxrZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/propolisss/baumana/aip/2_semestr/labs/laba_1",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="025702b3-0bbc-4a81-aa15-d4015cede6a5" name="Changes" comment="" />
+      <created>1710066688050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710066688050</updated>
+      <workItem from="1710066689051" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

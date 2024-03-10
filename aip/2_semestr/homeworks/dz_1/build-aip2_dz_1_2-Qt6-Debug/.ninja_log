@@ -1,0 +1,20 @@
+# ninja log v5
+17	1197	1710021253051923881	CMakeFiles/aip2_dz_1_2.dir/widget.cpp.o	b499f92a4864b73a
+151	924	1709551704635841481	CMakeFiles/aip2_dz_1_2.dir/aip2_dz_1_2_autogen/mocs_compilation.cpp.o	f344fb6e7a6f8ee1
+151	1048	1709551704759840772	CMakeFiles/aip2_dz_1_2.dir/main.cpp.o	80b1b123b147889b
+2	359	1710066962269278495	build.ninja	16adf4addb084873
+1197	1491	1710021253346922264	aip2_dz_1_2	63026597bce5fe33
+1	16	1710021251872930344	aip2_dz_1_2_autogen/timestamp	7e715546e6bd0724
+17	1034	1710021252890924764	CMakeFiles/aip2_dz_1_2.dir/findform.cpp.o	ee4be84ffa5bc602
+17	1081	1710021252936924511	CMakeFiles/aip2_dz_1_2.dir/addform.cpp.o	166f1ad21780a451
+1	16	1710021251872930344	aip2_dz_1_2_autogen/mocs_compilation.cpp	7e715546e6bd0724
+1	139	1710066969120252577	aip2_dz_1_2_autogen/timestamp	ca3cd1a824050b05
+1	139	1710066969120252577	aip2_dz_1_2_autogen/mocs_compilation.cpp	ca3cd1a824050b05
+1	139	1710066969120252577	/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/timestamp	ca3cd1a824050b05
+1	139	1710066969120252577	/home/propolisss/baumana/aip/2_semestr/homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/mocs_compilation.cpp	ca3cd1a824050b05
+139	912	1710066969894249649	CMakeFiles/aip2_dz_1_2.dir/aip2_dz_1_2_autogen/mocs_compilation.cpp.o	3c3fe7efaf6031cf
+139	967	1710066969950249437	CMakeFiles/aip2_dz_1_2.dir/main.cpp.o	2779c264fdf1bfcf
+140	1124	1710066970106248847	CMakeFiles/aip2_dz_1_2.dir/addform.cpp.o	2dc9f214c6a17c7e
+139	1186	1710066970168248613	CMakeFiles/aip2_dz_1_2.dir/widget.cpp.o	1fef1dae15175897
+140	1283	1710066970265248246	CMakeFiles/aip2_dz_1_2.dir/findform.cpp.o	7134ded3ce0afdaf
+1283	1553	1710066970535247224	aip2_dz_1_2	63026597bce5fe33
