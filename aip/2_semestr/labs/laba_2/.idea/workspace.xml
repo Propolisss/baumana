@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2bf1647-e74d-483a-914b-0a5a7fd66a73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/CMakeLists.txt.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/CMakeLists.txt.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/addform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/addform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/addform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/addform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/addform.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/addform.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/data_base.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/findform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/findform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/findform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/findform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/findform.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/findform.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/widget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/widget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/widget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/widget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/widget.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_2/widget.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/Area.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/Area.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/Area.h++" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/Area.h++" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/CMakeLists.txt.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/CMakeLists.txt.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/CMakeFiles/aip2_dz_1_3.dir/Area.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/CMakeFiles/aip2_dz_1_3.dir/Area.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/CMakeFiles/aip2_dz_1_3.dir/mainwindow.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/CMakeFiles/aip2_dz_1_3.dir/mainwindow.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/CMakeFiles/aip2_dz_1_3_autogen.dir/ParseCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/CMakeFiles/aip2_dz_1_3_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/aip2_dz_1_3" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/cmake-build-debug/aip2_dz_1_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/aip2_dz_1_3/mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/addform.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/addform.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/aip2_dz_1_2_autogen/mocs_compilation.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/aip2_dz_1_2_autogen/mocs_compilation.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/findform.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/findform.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/widget.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2.dir/widget.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2_autogen.dir/ParseCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/aip2_dz_1_2_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/d/c03313607e9f390a91ddf60f63d2106494eb5a498b00529e5ea9b1d83926f72b.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/CMakeFiles/d/c03313607e9f390a91ddf60f63d2106494eb5a498b00529e5ea9b1d83926f72b.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_addform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_addform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_findform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_findform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_widget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_widget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_widget.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/EWIEGA46WW/moc_widget.cpp.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/include/ui_addform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/include/ui_addform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/include/ui_findform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/include/ui_findform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/include/ui_widget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../homeworks/dz_1/build-aip2_dz_1_2-Qt6-Debug/aip2_dz_1_2_autogen/include/ui_widget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/.idea/laba_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/.idea/laba_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-66181d0bb15fcfecee79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3d6acd627c1563cb41fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-bbdd55b26a66aeee1d04.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-10T10-36-39-0675.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/.cmake/api/v1/reply/target-calc-Debug-b699cc6b88021b0cea62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/.cmake/api/v1/reply/target-calc_autogen-Debug-999affc4a1e5880f3397.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/.cmake/api/v1/reply/target-calc_autogen_timestamp_deps-Debug-e154ac5174ecc5880a95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc.dir/Win.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc.dir/Win.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/AutogenInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/AutogenUsed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/AutogenUsed.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/ParseCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/ParseCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/clean_additional.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/d/37a229f03f3817aae3dbc5f4676bdffb8c63469eec3c6977ad8cf35b3a147f4c.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/calc" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/calc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/calc_autogen/EWIEGA46WW/moc_Win.cpp.d" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/calc_autogen/EWIEGA46WW/moc_Win.cpp.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../laba_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget.ui" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dVe14cobm4xwBfFG29NQQH9apq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.laba_2.executor": "Run",
+    "CMake Debug.laba_2.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/propolisss/baumana/aip/2_semestr/labs/laba_2/laba_2_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="laba_2" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Debug.laba_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2bf1647-e74d-483a-914b-0a5a7fd66a73" name="Changes" comment="" />
+      <created>1710097454497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710097454497</updated>
+      <workItem from="1710097455906" duration="332000" />
+      <workItem from="1710097795666" duration="21000" />
+      <workItem from="1710097822902" duration="424000" />
+      <workItem from="1710108320505" duration="709000" />
+      <workItem from="1710113079260" duration="216000" />
+      <workItem from="1710113339235" duration="171000" />
+      <workItem from="1710113523265" duration="3969000" />
+      <workItem from="1710155583356" duration="8000" />
+      <workItem from="1710228001896" duration="461000" />
+      <workItem from="1710232422075" duration="43000" />
+      <workItem from="1710235781412" duration="148000" />
+      <workItem from="1710347532915" duration="108000" />
+      <workItem from="1710531636315" duration="651000" />
+      <workItem from="1710534584609" duration="2001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

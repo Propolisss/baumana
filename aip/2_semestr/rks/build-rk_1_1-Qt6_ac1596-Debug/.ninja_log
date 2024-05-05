@@ -1,0 +1,12 @@
+# ninja log v5
+1	199	1711051626923186859	rk1_autogen/timestamp	83c9fccbbee8e040
+1	199	1711051626923186859	rk1_autogen/mocs_compilation.cpp	83c9fccbbee8e040
+1	199	1711051626923186859	/home/propolisss/baumana/aip/2_semestr/rks/build-rk_1_1-Qt6_ac1596-Debug/rk1_autogen/timestamp	83c9fccbbee8e040
+1	199	1711051626923186859	/home/propolisss/baumana/aip/2_semestr/rks/build-rk_1_1-Qt6_ac1596-Debug/rk1_autogen/mocs_compilation.cpp	83c9fccbbee8e040
+199	468	1711051627194184918	CMakeFiles/rk1.dir/Book.cpp.o	74b143013e25f34
+199	1362	1711051628088178516	CMakeFiles/rk1.dir/LibShelf.cpp.o	1a56f86cb7859a96
+199	1398	1711051628124178258	CMakeFiles/rk1.dir/rk1_autogen/mocs_compilation.cpp.o	c8eceeabcead672b
+199	1428	1711051628154178043	CMakeFiles/rk1.dir/Shelf.cpp.o	4fd89a77f56e5038
+199	1641	1711051628367176518	CMakeFiles/rk1.dir/widget.cpp.o	47a9d2487f1fe394
+199	1826	1711051628552175193	CMakeFiles/rk1.dir/main.cpp.o	68271d36aba9786f
+1826	2110	1711051628835173167	rk1	6b4b92c7995e0dd1

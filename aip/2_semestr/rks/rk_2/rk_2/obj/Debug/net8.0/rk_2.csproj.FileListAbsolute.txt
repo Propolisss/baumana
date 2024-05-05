@@ -1,0 +1,15 @@
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/bin/Debug/net8.0/rk_2
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/bin/Debug/net8.0/rk_2.deps.json
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/bin/Debug/net8.0/rk_2.runtimeconfig.json
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/bin/Debug/net8.0/rk_2.dll
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/bin/Debug/net8.0/rk_2.pdb
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.AssemblyInfoInputs.cache
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.AssemblyInfo.cs
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.csproj.CoreCompileInputs.cache
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.sourcelink.json
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.dll
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/refint/rk_2.dll
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.pdb
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/rk_2.genruntimeconfig.cache
+/home/propolisss/baumana/aip/2_semestr/rks/rk_2/rk_2/obj/Debug/net8.0/ref/rk_2.dll

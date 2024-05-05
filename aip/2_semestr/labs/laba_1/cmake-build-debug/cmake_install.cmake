@@ -1,4 +1,4 @@
-# Install script for directory: /home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc
+# Install script for directory: /home/propolisss/baumana/aip/2_semestr/labs/laba_1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/calc"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/calc")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/calc" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/calc")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -66,5 +66,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

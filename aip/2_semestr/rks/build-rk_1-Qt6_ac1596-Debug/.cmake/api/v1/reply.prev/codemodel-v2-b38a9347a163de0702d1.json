@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e139e9cf2297f1749bfb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rk1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "laba_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba_2-Debug-583d86566d7441c84775.json",
+					"name" : "laba_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba_2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba_2_autogen-Debug-802888e7db80861f1ba7.json",
+					"name" : "laba_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba_2_autogen_timestamp_deps-Debug-32c9f07af509a2d6cda5.json",
+					"name" : "laba_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/propolisss/baumana/aip/2_semestr/rks/build-rk_1_1-Qt6_ac1596-Debug",
+		"source" : "/home/propolisss/baumana/aip/2_semestr/rks/rk_1_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

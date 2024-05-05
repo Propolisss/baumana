@@ -1,0 +1,9 @@
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/practice_1.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/edit_cache.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/rebuild_cache.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/list_install_components.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/install.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/install/local.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/install/strip.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/practice_1_autogen_timestamp_deps.dir
+/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug/CMakeFiles/practice_1_autogen.dir

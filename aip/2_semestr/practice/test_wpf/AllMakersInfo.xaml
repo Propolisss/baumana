@@ -1,0 +1,28 @@
+﻿<Window x:Class="test_wpf.AllMakersInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_wpf"
+        mc:Ignorable="d"
+        Title="AllMakersInfo" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Top" MinHeight="30" Margin="0,0,0,0" Background="#33000000">
+            <ListViewItem HorizontalContentAlignment="Stretch" IsEnabled="False">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Text="Производитель" Margin="5"/>
+                    <TextBlock Grid.Column="1" Text="Число моделей" Margin="5"/>
+                    <TextBlock Grid.Column="2" Text="Число пар" Margin="5"/>
+                </Grid>
+            </ListViewItem>
+        </StackPanel>
+        <ListView x:Name="ShoesItems" Margin="0,30,0,0" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" SelectionMode="Multiple" HorizontalContentAlignment="Stretch" BorderThickness="0,0,0,0">
+
+        </ListView>
+    </Grid>
+</Window>

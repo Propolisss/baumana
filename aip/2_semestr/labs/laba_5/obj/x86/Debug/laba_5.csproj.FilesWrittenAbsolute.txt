@@ -1,0 +1,6 @@
+/home/propolisss/laba_5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/propolisss/laba_5/obj/x86/Debug/laba_5.gtk-gui.gui.stetic
+/home/propolisss/laba_5/bin/Debug/laba_5.exe.mdb
+/home/propolisss/laba_5/bin/Debug/laba_5.exe
+/home/propolisss/laba_5/obj/x86/Debug/laba_5.exe
+/home/propolisss/laba_5/obj/x86/Debug/laba_5.exe.mdb

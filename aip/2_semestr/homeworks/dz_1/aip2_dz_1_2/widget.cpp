@@ -7,7 +7,6 @@
 #include <iostream>
 #include <cstdio>
 #include <QString>
-
 Widget::Widget(QWidget* parent)
     : QWidget(parent), ui(new Ui::Widget) {
   ui->setupUi(this);
@@ -66,7 +65,7 @@ void Widget::setDataBase(QString& surname_, QString& name_, QString& phone_, QSt
   horLayout->addWidget(frame4);
   vertLayout->insertWidget(countWidgets++, tempFrame);
   std::vector<QString> temp = {surname_, name_, phone_, adress_};
-  arrRadioButtons.push_back(std::make_pair(temp, radioButton));
+  arrRadioButtons.emplace_back(temp, radioButton);
 }
 
 void Widget::updateDataBase() {
@@ -85,7 +84,7 @@ void Widget::updateDataBase() {
   arrRadioButtons.clear();
   countWidgets = 0;
   std::fstream out;
-  out.open("..//data_base.txt", std::ios::in);
+  out.open("//home//propolisss//baumana//aip//2_semestr//homeworks//dz_1//aip2_dz_1_2//data_base.txt", std::ios::in);
   std::string surname;
   std::string name;
   std::string phone;
@@ -121,8 +120,8 @@ void Widget::deleteRecord() {
 }
 void Widget::deleteDataBase(QString& surname_, QString& name_, QString& phone_, QString& adress_) {
   std::fstream out;
-  std::fstream in("..//data_base_2.txt", std::ios::out);
-  out.open("..//data_base.txt", std::ios::in);
+  std::fstream in("//home//propolisss//baumana//aip//2_semestr//homeworks//dz_1//aip2_dz_1_2//data_base_2.txt", std::ios::out);
+  out.open("//home//propolisss//baumana//aip//2_semestr//homeworks//dz_1//aip2_dz_1_2//data_base.txt", std::ios::in);
   bool flag = false;
   auto size = sizeOfFile() / 4;
   for (int i = 0; i < size; ++i) {
@@ -151,8 +150,8 @@ void Widget::deleteDataBase(QString& surname_, QString& name_, QString& phone_, 
 
   out.close();
   in.close();
-  remove("..//data_base.txt");
-  rename("..//data_base_2.txt", "..//data_base.txt");
+  remove("//home//propolisss//baumana//aip//2_semestr//homeworks//dz_1//aip2_dz_1_2//data_base.txt");
+  rename("//home//propolisss//baumana//aip//2_semestr//homeworks//dz_1//aip2_dz_1_2//data_base_2.txt", "//home//propolisss//baumana//aip//2_semestr//homeworks//dz_1//aip2_dz_1_2//data_base.txt");
 }
 void Widget::showFindedDataBase(QString& surname_, QString& name_, QString& phone_, QString& adress_) {
   for (int i = 0; i < countWidgets; ++i) {
@@ -180,12 +179,41 @@ void Widget::on_pushButton_4_clicked() {
 
 int Widget::sizeOfFile() {
   std::fstream out;
-  out.open("..//data_base.txt", std::ios::in);
+  out.open("//home//propolisss//baumana//aip//2_semestr//homeworks//dz_1//aip2_dz_1_2//data_base.txt", std::ios::in);
   int size;
   std::string temp;
   while (std::getline(out, temp)) {
     ++size;
   }
   return size;
+}
+void Widget::keyPressEvent(QKeyEvent* event) {
+  if (event->key() == Qt::Key_Enter || event->key() == Qt::Key_Return) {
+    QRadioButton* button = qobject_cast<QRadioButton*>(QApplication::focusWidget());
+    if (button) {
+      button->setChecked(true);
+    }
+  }
+
+  QWidget::keyPressEvent(event);
+}
+
+
+void Widget::on_pushButton_5_clicked()
+{
+  for (int i = 0; i < countWidgets; ++i) {
+    QLayoutItem* item = vertLayout->itemAt(i);
+      vertLayout->removeItem(item);
+      QWidget* widget = item->widget();
+      vertLayout->removeWidget(widget);
+      delete widget;
+      delete item;
+      deleteDataBase(arrRadioButtons[i].first[0], arrRadioButtons[i].first[1],
+                     arrRadioButtons[i].first[2], arrRadioButtons[i].first[3]);
+      arrRadioButtons.erase(arrRadioButtons.begin() + i);
+      --i;
+      --countWidgets;
+
+  }
 }
 

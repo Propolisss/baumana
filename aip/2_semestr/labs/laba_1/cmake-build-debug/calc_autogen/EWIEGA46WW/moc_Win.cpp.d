@@ -1,5 +1,5 @@
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/EWIEGA46WW/moc_Win.cpp: /home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/Win.h++ \
-  /home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/moc_predefs.h \
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/calc_autogen/EWIEGA46WW/moc_Win.cpp: /home/propolisss/baumana/aip/2_semestr/labs/laba_1/Win.h++ \
+  /home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/calc_autogen/moc_predefs.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
   /usr/include/asm/errno.h \

@@ -1,15 +1,16 @@
 {
-	"BUILD_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen",
-	"CMAKE_BINARY_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc",
+	"BUILD_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/calc_autogen",
+	"CMAKE_BINARY_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1",
 	"CMAKE_EXECUTABLE" : "/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/CMakeLists.txt",
+		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/CMakeLists.txt",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystem.cmake.in",
-		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake",
+		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake",
+		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeUnixFindMake.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake",
@@ -60,12 +61,15 @@
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
+		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/Linux.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake",
+		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeFindCodeBlocks.cmake",
+		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/ProcessorCount.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake",
@@ -85,7 +89,7 @@
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
+		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
 		"/usr/lib64/cmake/Qt5/Qt5ConfigVersion.cmake",
 		"/usr/lib64/cmake/Qt5/Qt5Config.cmake",
 		"/usr/lib64/cmake/Qt5/Qt5ConfigVersion.cmake",
@@ -134,21 +138,21 @@
 		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc",
-	"DEP_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/deps",
-	"DEP_FILE_RULE_NAME" : "calc_autogen/timestamp",
+	"CMAKE_SOURCE_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/Win.h++",
+			"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/Win.h++",
 			"MU",
 			"EWIEGA46WW/moc_Win.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/calc_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/calc_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -159,8 +163,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug",
-		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc",
+		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug",
+		"/home/propolisss/baumana/aip/2_semestr/labs/laba_1",
 		"/usr/include/qt5",
 		"/usr/include/qt5/QtWidgets",
 		"/usr/include/qt5/QtGui",
@@ -185,26 +189,26 @@
 		"-c",
 		"/home/propolisss/CLion-2023.2.2/clion-2023.2.2/bin/cmake/linux/x64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/calc_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/calc_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
-	"PARSE_CACHE_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/calc_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib64/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "/usr/lib64/qt5/bin/uic",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/calc_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/Win.cpp",
+			"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/Win.cpp",
 			"MU",
 			null
 		],
 		[
-			"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/main.cpp",
+			"/home/propolisss/baumana/aip/2_semestr/labs/laba_1/main.cpp",
 			"MU",
 			null
 		]

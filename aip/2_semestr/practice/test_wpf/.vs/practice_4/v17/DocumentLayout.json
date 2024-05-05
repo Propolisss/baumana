@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|C:\\Users\\Propolisss\\source\\repos\\test_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|C:\\Users\\Propolisss\\source\\repos\\test_wpf\\findform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|solutionrelative:findform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|C:\\Users\\Propolisss\\source\\repos\\test_wpf\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|solutionrelative:shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|C:\\Users\\Propolisss\\source\\repos\\test_wpf\\makerinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|solutionrelative:makerinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|C:\\Users\\Propolisss\\source\\repos\\test_wpf\\allmakersinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|solutionrelative:allmakersinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|C:\\Users\\Propolisss\\source\\repos\\test_wpf\\addform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|solutionrelative:addform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|C:\\Users\\Propolisss\\source\\repos\\test_wpf\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D197F3A-49DB-4126-8D69-5A0A73F29717}|practice_4.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllMakersInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\AllMakersInfo.xaml.cs",
+              "RelativeDocumentMoniker": "AllMakersInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\AllMakersInfo.xaml.cs",
+              "RelativeToolTip": "AllMakersInfo.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwDgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:58:58.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\FindForm.xaml.cs",
+              "RelativeDocumentMoniker": "FindForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\FindForm.xaml.cs",
+              "RelativeToolTip": "FindForm.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:08:48.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\AddForm.xaml.cs",
+              "RelativeDocumentMoniker": "AddForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\AddForm.xaml.cs",
+              "RelativeToolTip": "AddForm.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:41:24.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:55:21.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MakerInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\MakerInfo.xaml.cs",
+              "RelativeDocumentMoniker": "MakerInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\MakerInfo.xaml.cs",
+              "RelativeToolTip": "MakerInfo.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:50:17.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:55:56.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\Shoe.cs",
+              "RelativeDocumentMoniker": "Shoe.cs",
+              "ToolTip": "C:\\Users\\Propolisss\\source\\repos\\test_wpf\\Shoe.cs",
+              "RelativeToolTip": "Shoe.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:44:46.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

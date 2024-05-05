@@ -1,9 +1,8 @@
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/calc.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/list_install_components.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/install.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/install/local.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/install/strip.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/calc_autogen_timestamp_deps.dir
-/home/propolisss/baumana/aip/2_semestr/labs/laba_1/calc/cmake-build-debug/CMakeFiles/calc_autogen.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/calc.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/install.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/install/local.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/propolisss/baumana/aip/2_semestr/labs/laba_1/cmake-build-debug/CMakeFiles/calc_autogen.dir

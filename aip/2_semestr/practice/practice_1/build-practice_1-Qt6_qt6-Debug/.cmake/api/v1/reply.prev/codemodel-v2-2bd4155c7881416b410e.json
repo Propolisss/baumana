@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-57c5ec4576c5ea6aa27e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "practice_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "practice_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice_1-Debug-e598dc951634f2951da8.json",
+					"name" : "practice_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice_1_autogen-Debug-ee18c2f5b84d53f5a61e.json",
+					"name" : "practice_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "practice_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice_1_autogen_timestamp_deps-Debug-73595a90f9868c5fb08b.json",
+					"name" : "practice_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/propolisss/baumana/aip/2_semestr/practice/practice_1/build-practice_1-Qt6_qt6-Debug",
+		"source" : "/home/propolisss/baumana/aip/2_semestr/practice/practice_1/practice_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

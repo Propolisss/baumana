@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz_2_1", "dz_2_1\dz_2_1.csproj", "{D4032A2E-AE83-4A16-911A-CAAD67C52CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz_2_2", "dz_2_2\dz_2_2.csproj", "{1052855F-11FC-4F44-A868-0569FD9144C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4032A2E-AE83-4A16-911A-CAAD67C52CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4032A2E-AE83-4A16-911A-CAAD67C52CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4032A2E-AE83-4A16-911A-CAAD67C52CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4032A2E-AE83-4A16-911A-CAAD67C52CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1052855F-11FC-4F44-A868-0569FD9144C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1052855F-11FC-4F44-A868-0569FD9144C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1052855F-11FC-4F44-A868-0569FD9144C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1052855F-11FC-4F44-A868-0569FD9144C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

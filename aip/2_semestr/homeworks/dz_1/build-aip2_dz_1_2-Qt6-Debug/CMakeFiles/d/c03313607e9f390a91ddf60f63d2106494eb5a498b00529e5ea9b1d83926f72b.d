@@ -112,6 +112,7 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/bits/pthreadtypes.h \
   /usr/include/bits/sched.h \
   /usr/include/bits/setjmp.h \
+  /usr/include/bits/stdio_lim.h \
   /usr/include/bits/struct_mutex.h \
   /usr/include/bits/struct_rwlock.h \
   /usr/include/bits/syscall.h \
@@ -123,14 +124,18 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/bits/types.h \
   /usr/include/bits/types/FILE.h \
   /usr/include/bits/types/__FILE.h \
+  /usr/include/bits/types/__fpos64_t.h \
+  /usr/include/bits/types/__fpos_t.h \
   /usr/include/bits/types/__locale_t.h \
   /usr/include/bits/types/__mbstate_t.h \
   /usr/include/bits/types/__sigset_t.h \
   /usr/include/bits/types/clock_t.h \
   /usr/include/bits/types/clockid_t.h \
+  /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/types/error_t.h \
   /usr/include/bits/types/locale_t.h \
   /usr/include/bits/types/mbstate_t.h \
+  /usr/include/bits/types/struct_FILE.h \
   /usr/include/bits/types/struct___jmp_buf_tag.h \
   /usr/include/bits/types/struct_itimerspec.h \
   /usr/include/bits/types/struct_sched_param.h \
@@ -254,6 +259,7 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/c++/13/compare \
   /usr/include/c++/13/concepts \
   /usr/include/c++/13/cstddef \
+  /usr/include/c++/13/cstdint \
   /usr/include/c++/13/cstdlib \
   /usr/include/c++/13/cwchar \
   /usr/include/c++/13/cwctype \
@@ -328,7 +334,10 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/qt5/QtCore/qconfig.h \
   /usr/include/qt5/QtCore/qcontainerfwd.h \
   /usr/include/qt5/QtCore/qcontainertools_impl.h \
+  /usr/include/qt5/QtCore/qcoreevent.h \
   /usr/include/qt5/QtCore/qdatastream.h \
+  /usr/include/qt5/QtCore/qfile.h \
+  /usr/include/qt5/QtCore/qfiledevice.h \
   /usr/include/qt5/QtCore/qflags.h \
   /usr/include/qt5/QtCore/qgenericatomic.h \
   /usr/include/qt5/QtCore/qglobal.h \
@@ -340,6 +349,7 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/qt5/QtCore/qline.h \
   /usr/include/qt5/QtCore/qlist.h \
   /usr/include/qt5/QtCore/qlogging.h \
+  /usr/include/qt5/QtCore/qmap.h \
   /usr/include/qt5/QtCore/qmargins.h \
   /usr/include/qt5/QtCore/qmetatype.h \
   /usr/include/qt5/QtCore/qnamespace.h \
@@ -355,6 +365,7 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/qt5/QtCore/qrefcount.h \
   /usr/include/qt5/QtCore/qregexp.h \
   /usr/include/qt5/QtCore/qscopedpointer.h \
+  /usr/include/qt5/QtCore/qset.h \
   /usr/include/qt5/QtCore/qshareddata.h \
   /usr/include/qt5/QtCore/qsharedpointer.h \
   /usr/include/qt5/QtCore/qsharedpointer_impl.h \
@@ -369,12 +380,16 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/qt5/QtCore/qsystemdetection.h \
   /usr/include/qt5/QtCore/qtcore-config.h \
   /usr/include/qt5/QtCore/qtypeinfo.h \
+  /usr/include/qt5/QtCore/qurl.h \
+  /usr/include/qt5/QtCore/qvariant.h \
   /usr/include/qt5/QtCore/qvarlengtharray.h \
   /usr/include/qt5/QtCore/qvector.h \
   /usr/include/qt5/QtCore/qversiontagging.h \
+  /usr/include/qt5/QtGui/QKeyEvent \
   /usr/include/qt5/QtGui/qbrush.h \
   /usr/include/qt5/QtGui/qcolor.h \
   /usr/include/qt5/QtGui/qcursor.h \
+  /usr/include/qt5/QtGui/qevent.h \
   /usr/include/qt5/QtGui/qfont.h \
   /usr/include/qt5/QtGui/qfontinfo.h \
   /usr/include/qt5/QtGui/qfontmetrics.h \
@@ -392,7 +407,9 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/qt5/QtGui/qrgba64.h \
   /usr/include/qt5/QtGui/qtgui-config.h \
   /usr/include/qt5/QtGui/qtguiglobal.h \
+  /usr/include/qt5/QtGui/qtouchdevice.h \
   /usr/include/qt5/QtGui/qtransform.h \
+  /usr/include/qt5/QtGui/qvector2d.h \
   /usr/include/qt5/QtGui/qwindowdefs.h \
   /usr/include/qt5/QtWidgets/QDialog \
   /usr/include/qt5/QtWidgets/QFrame \
@@ -413,6 +430,7 @@ aip2_dz_1_2_autogen/timestamp: \
   /usr/include/qt5/QtWidgets/qwidget.h \
   /usr/include/sched.h \
   /usr/include/stdc-predef.h \
+  /usr/include/stdio.h \
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/sys/cdefs.h \

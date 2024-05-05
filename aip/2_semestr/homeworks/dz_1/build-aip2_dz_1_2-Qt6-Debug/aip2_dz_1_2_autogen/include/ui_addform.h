@@ -146,6 +146,8 @@ public:
         pushButton->setSizePolicy(sizePolicy);
         pushButton->setMinimumSize(QSize(0, 0));
         pushButton->setMaximumSize(QSize(16777215, 100));
+        pushButton->setFocusPolicy(Qt::StrongFocus);
+        pushButton->setAutoDefault(true);
 
         horizontalLayout_2->addWidget(pushButton);
 
@@ -161,6 +163,7 @@ public:
         sizePolicy1.setHeightForWidth(pushButton_3->sizePolicy().hasHeightForWidth());
         pushButton_3->setSizePolicy(sizePolicy1);
         pushButton_3->setMaximumSize(QSize(16777215, 100));
+        pushButton_3->setAutoDefault(true);
 
         horizontalLayout_2->addWidget(pushButton_3);
 
@@ -180,6 +183,10 @@ public:
 
         retranslateUi(AddForm);
         QObject::connect(pushButton_3, SIGNAL(clicked()), AddForm, SLOT(close()));
+
+        pushButton->setDefault(false);
+        pushButton_3->setDefault(false);
+
 
         QMetaObject::connectSlotsByName(AddForm);
     } // setupUi

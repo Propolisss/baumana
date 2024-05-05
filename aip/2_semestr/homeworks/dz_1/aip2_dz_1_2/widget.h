@@ -7,7 +7,7 @@
 #include "QFrame"
 #include <vector>
 #include <QRadioButton>
-
+#include <QKeyEvent>
 QT_BEGIN_NAMESPACE
 namespace Ui { class Widget; }
 QT_END_NAMESPACE
@@ -22,14 +22,15 @@ class Widget : public QWidget {
   void updateDataBase();
   void deleteDataBase(QString&, QString&, QString&, QString&);
   void showFindedDataBase(QString&, QString&, QString&, QString&);
+  void keyPressEvent(QKeyEvent* event) override;
  private slots:
-  void on_pushButton_clicked();
   void deleteRecord();
+  void on_pushButton_clicked();
   void on_pushButton_2_clicked();
-
   void on_pushButton_4_clicked();
+  void on_pushButton_5_clicked();
 
- private:
+private:
   Ui::Widget* ui;
   FindForm* findForm;
   AddForm* addForm;

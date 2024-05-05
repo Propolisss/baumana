@@ -1,0 +1,6 @@
+/home/propolisss/TicTacToe/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/propolisss/TicTacToe/obj/x86/Debug/TicTacToe.gtk-gui.gui.stetic
+/home/propolisss/TicTacToe/bin/Debug/TicTacToe.exe.mdb
+/home/propolisss/TicTacToe/bin/Debug/TicTacToe.exe
+/home/propolisss/TicTacToe/obj/x86/Debug/TicTacToe.exe
+/home/propolisss/TicTacToe/obj/x86/Debug/TicTacToe.exe.mdb

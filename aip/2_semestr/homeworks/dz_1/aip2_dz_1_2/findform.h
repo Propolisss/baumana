@@ -17,6 +17,16 @@ class FindForm : public QDialog {
 private slots:
   void on_pushButton_clicked();
 
+  void on_nameLineEdit_returnPressed();
+
+  void on_surnameLineEdit_returnPressed();
+
+  void on_phoneLineEdit_returnPressed();
+
+  void on_adressLineEdit_returnPressed();
+
+  bool eventFilter(QObject* obj, QEvent* event) override;
+
 private:
   Ui::FindForm* ui;
   void* parentForm;

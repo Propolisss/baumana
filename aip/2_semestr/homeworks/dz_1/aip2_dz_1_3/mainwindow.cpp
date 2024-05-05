@@ -3,7 +3,7 @@
 
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent) {
   setWindowTitle("Обработка событий");
-  resize(200, 200);
+  resize(700, 700);
 
   area = new Area(this);
   QVBoxLayout* layout = new QVBoxLayout();

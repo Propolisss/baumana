@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/propolisss/baumana/aip/2_semestr/labs/laba_2 Select CMakeLists.txt

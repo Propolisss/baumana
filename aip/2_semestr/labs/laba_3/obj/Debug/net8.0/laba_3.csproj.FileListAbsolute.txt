@@ -1,0 +1,15 @@
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/bin/Debug/net8.0/laba_3
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/bin/Debug/net8.0/laba_3.deps.json
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/bin/Debug/net8.0/laba_3.runtimeconfig.json
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/bin/Debug/net8.0/laba_3.dll
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/bin/Debug/net8.0/laba_3.pdb
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.AssemblyInfoInputs.cache
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.AssemblyInfo.cs
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.csproj.CoreCompileInputs.cache
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.sourcelink.json
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.dll
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/refint/laba_3.dll
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.pdb
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/laba_3.genruntimeconfig.cache
+/home/propolisss/baumana/aip/2_semestr/labs/laba_3/obj/Debug/net8.0/ref/laba_3.dll

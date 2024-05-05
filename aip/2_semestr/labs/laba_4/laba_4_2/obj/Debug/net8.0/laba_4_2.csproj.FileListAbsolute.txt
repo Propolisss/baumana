@@ -1,0 +1,15 @@
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/bin/Debug/net8.0/laba_4_2
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/bin/Debug/net8.0/laba_4_2.deps.json
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/bin/Debug/net8.0/laba_4_2.runtimeconfig.json
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/bin/Debug/net8.0/laba_4_2.dll
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/bin/Debug/net8.0/laba_4_2.pdb
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.AssemblyInfoInputs.cache
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.AssemblyInfo.cs
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.csproj.CoreCompileInputs.cache
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.sourcelink.json
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.dll
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/refint/laba_4_2.dll
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.pdb
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/laba_4_2.genruntimeconfig.cache
+/home/propolisss/baumana/aip/2_semestr/labs/laba_4/laba_4_2/obj/Debug/net8.0/ref/laba_4_2.dll

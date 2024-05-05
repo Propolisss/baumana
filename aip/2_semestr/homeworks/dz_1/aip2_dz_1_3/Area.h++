@@ -13,8 +13,12 @@ class Area : public QWidget {
   int myTimer;
   double alpha1;
   double alpha2;
+  double alpha3;
+  double alpha4;
   Ellipse* ellipse1;
   Ellipse* ellipse2;
+  Ellipse* ellipse3;
+  Ellipse* circle;
  protected:
   void paintEvent(QPaintEvent* event) override;
   void timerEvent(QTimerEvent* event) override;

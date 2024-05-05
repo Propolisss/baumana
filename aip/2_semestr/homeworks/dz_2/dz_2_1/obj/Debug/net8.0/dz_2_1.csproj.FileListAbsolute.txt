@@ -1,0 +1,15 @@
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/bin/Debug/net8.0/dz_2_1
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/bin/Debug/net8.0/dz_2_1.deps.json
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/bin/Debug/net8.0/dz_2_1.runtimeconfig.json
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/bin/Debug/net8.0/dz_2_1.dll
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/bin/Debug/net8.0/dz_2_1.pdb
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.AssemblyInfoInputs.cache
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.AssemblyInfo.cs
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.csproj.CoreCompileInputs.cache
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.sourcelink.json
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.dll
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/refint/dz_2_1.dll
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.pdb
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/dz_2_1.genruntimeconfig.cache
+/home/propolisss/baumana/aip/2_semestr/homeworks/dz_2/dz_2_1/obj/Debug/net8.0/ref/dz_2_1.dll

@@ -1,0 +1,264 @@
+Zig Kinetica
+Reebok
+40
+15
+Mayze
+Puma
+38
+20
+Mindblower
+Fila
+37
+20
+Yeezy
+Adidas
+44
+4
+Run Star Hike
+Converse
+40
+13
+One Star
+Converse
+37
+19
+Venom
+Fila
+39
+15
+550
+New Balance
+36
+14
+Air Force 1
+Nike
+38
+7
+Pro Leather
+Converse
+36
+9
+Dunk
+Nike
+37
+2
+Instapump Fury
+Reebok
+40
+15
+Jazz Original
+Saucony
+37
+8
+Kinvara
+Saucony
+37
+3
+Pro Leather
+Converse
+39
+13
+Gel-Lyte III
+Asics
+36
+18
+2002R
+New Balance
+38
+9
+Sk8-Hi
+Vans
+41
+10
+Kinvara
+Saucony
+43
+1
+Nano X
+Reebok
+36
+15
+One Star
+Converse
+39
+18
+Gel-Nimbus
+Asics
+44
+20
+Cali
+Puma
+40
+8
+Classic Leather
+Reebok
+45
+12
+Slip-On
+Vans
+37
+1
+Chuck Taylor All Star
+Converse
+37
+9
+Zig Kinetica
+Reebok
+44
+7
+990v5
+New Balance
+40
+6
+Disruptor II
+Fila
+37
+14
+Slip-On
+Vans
+40
+2
+Pro Leather
+Converse
+41
+16
+Suede Classic
+Puma
+38
+9
+327
+New Balance
+45
+3
+Superstar
+Adidas
+41
+3
+Suede Classic
+Puma
+41
+20
+Slip-On
+Vans
+42
+6
+Dunk
+Nike
+36
+7
+Suede Classic
+Puma
+45
+16
+Ray Tracer
+Fila
+44
+5
+Metaspeed Sky
+Asics
+39
+7
+Gel-Lyte III
+Asics
+37
+3
+Club C 85
+Reebok
+38
+17
+Instapump Fury
+Reebok
+38
+16
+Old Skool
+Vans
+36
+17
+Classic Leather
+Reebok
+40
+6
+Nano X
+Reebok
+42
+2
+Stan Smith
+Adidas
+43
+5
+Sk8-Hi
+Vans
+39
+10
+Sk8-Hi
+Vans
+36
+13
+Gel-Kayano
+Asics
+36
+20
+Gel-Nimbus
+Asics
+37
+5
+One Star
+Converse
+40
+5
+Gel-Kayano
+Asics
+38
+9
+Venom
+Fila
+41
+13
+Jack Purcell
+Converse
+39
+6
+Sk8-Hi
+Vans
+37
+14
+Gel-Kayano
+Asics
+42
+18
+Air Force 1
+Nike
+39
+8
+Metaspeed Sky
+Asics
+43
+10
+Dunk
+Nike
+44
+16
+Run Star Hike
+Converse
+36
+2
+Air Max 90
+Nike
+37
+2
+Old Skool
+Vans
+45
+9
+Gel-Kayano
+Asics
+45
+16
+Jordan 1
+Nike
+44
+2
+Mindblower
+Fila
+36
+5

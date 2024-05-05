@@ -54,6 +54,8 @@ public:
     QSpacerItem *verticalSpacer_4;
     QPushButton *pushButton_4;
     QSpacerItem *verticalSpacer_5;
+    QPushButton *pushButton_5;
+    QSpacerItem *verticalSpacer_7;
     QPushButton *pushButton_2;
     QSpacerItem *verticalSpacer_3;
     QPushButton *deleteButton;
@@ -210,6 +212,8 @@ public:
         pushButton->setSizePolicy(sizePolicy2);
         pushButton->setMinimumSize(QSize(200, 50));
         pushButton->setMaximumSize(QSize(16777215, 50));
+        pushButton->setCursor(QCursor(Qt::ArrowCursor));
+        pushButton->setAutoDefault(true);
 
         verticalLayout_2->addWidget(pushButton);
 
@@ -226,6 +230,7 @@ public:
         pushButton_4->setSizePolicy(sizePolicy3);
         pushButton_4->setMinimumSize(QSize(200, 50));
         pushButton_4->setMaximumSize(QSize(16777215, 50));
+        pushButton_4->setAutoDefault(true);
 
         verticalLayout_2->addWidget(pushButton_4);
 
@@ -233,12 +238,27 @@ public:
 
         verticalLayout_2->addItem(verticalSpacer_5);
 
+        pushButton_5 = new QPushButton(frame);
+        pushButton_5->setObjectName(QString::fromUtf8("pushButton_5"));
+        sizePolicy3.setHeightForWidth(pushButton_5->sizePolicy().hasHeightForWidth());
+        pushButton_5->setSizePolicy(sizePolicy3);
+        pushButton_5->setMinimumSize(QSize(200, 50));
+        pushButton_5->setMaximumSize(QSize(16777215, 50));
+        pushButton_5->setAutoDefault(true);
+
+        verticalLayout_2->addWidget(pushButton_5);
+
+        verticalSpacer_7 = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_2->addItem(verticalSpacer_7);
+
         pushButton_2 = new QPushButton(frame);
         pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
         sizePolicy3.setHeightForWidth(pushButton_2->sizePolicy().hasHeightForWidth());
         pushButton_2->setSizePolicy(sizePolicy3);
         pushButton_2->setMinimumSize(QSize(200, 50));
         pushButton_2->setMaximumSize(QSize(16777215, 50));
+        pushButton_2->setAutoDefault(true);
 
         verticalLayout_2->addWidget(pushButton_2);
 
@@ -252,6 +272,7 @@ public:
         deleteButton->setSizePolicy(sizePolicy3);
         deleteButton->setMinimumSize(QSize(200, 50));
         deleteButton->setMaximumSize(QSize(16777215, 50));
+        deleteButton->setAutoDefault(true);
 
         verticalLayout_2->addWidget(deleteButton);
 
@@ -265,6 +286,7 @@ public:
         pushButton_3->setSizePolicy(sizePolicy2);
         pushButton_3->setMinimumSize(QSize(200, 50));
         pushButton_3->setMaximumSize(QSize(16777215, 50));
+        pushButton_3->setAutoDefault(true);
 
         verticalLayout_2->addWidget(pushButton_3);
 
@@ -294,6 +316,7 @@ public:
         label_5->setText(QCoreApplication::translate("Widget", "\320\220\320\264\321\200\320\265\321\201", nullptr));
         pushButton->setText(QCoreApplication::translate("Widget", "\320\222\320\262\320\276\320\264/\320\264\320\276\320\261\320\260\320\262\320\273\320\265\320\275\320\270\320\265 \320\267\320\260\320\277\320\270\321\201\320\265\320\271", nullptr));
         pushButton_4->setText(QCoreApplication::translate("Widget", "\320\237\320\276\320\272\320\260\320\267\320\260\321\202\321\214 \320\262\321\201\321\221", nullptr));
+        pushButton_5->setText(QCoreApplication::translate("Widget", "\320\243\320\264\320\260\320\273\320\270\321\202\321\214 \320\262\321\201\321\221", nullptr));
         pushButton_2->setText(QCoreApplication::translate("Widget", "\320\237\320\276\320\270\321\201\320\272", nullptr));
         deleteButton->setText(QCoreApplication::translate("Widget", "\320\243\320\264\320\260\320\273\320\270\321\202\321\214", nullptr));
         pushButton_3->setText(QCoreApplication::translate("Widget", "\320\227\320\260\320\262\320\265\321\200\321\210\320\265\320\275\320\270\320\265 \321\200\320\260\320\261\320\276\321\202\321\213", nullptr));

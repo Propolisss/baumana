@@ -146,6 +146,7 @@ public:
         pushButton->setSizePolicy(sizePolicy);
         pushButton->setMinimumSize(QSize(0, 0));
         pushButton->setMaximumSize(QSize(16777215, 100));
+        pushButton->setAutoDefault(false);
 
         horizontalLayout_2->addWidget(pushButton);
 
@@ -161,6 +162,7 @@ public:
         sizePolicy1.setHeightForWidth(pushButton_3->sizePolicy().hasHeightForWidth());
         pushButton_3->setSizePolicy(sizePolicy1);
         pushButton_3->setMaximumSize(QSize(16777215, 100));
+        pushButton_3->setAutoDefault(false);
 
         horizontalLayout_2->addWidget(pushButton_3);
 
@@ -180,6 +182,7 @@ public:
 
         retranslateUi(FindForm);
         QObject::connect(pushButton_3, SIGNAL(clicked()), FindForm, SLOT(close()));
+        QObject::connect(adressLineEdit, SIGNAL(returnPressed()), pushButton, SLOT(click()));
 
         QMetaObject::connectSlotsByName(FindForm);
     } // setupUi
